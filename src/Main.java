@@ -17,3 +17,9 @@ public class Main {
     double weightOifference = boxer2 - boxer1;
     System.out.println ("weightOfAllBoxers");
     System.out.println("weightOifference");
+    // exercise 3
+    int banans = 5;
+    int milk = 1;
+    int plomb = 2;
+    int iaki = 4;
+
